@@ -1,4 +1,6 @@
  Proyecto de Predicción de Churn en Telecomunicaciones
+
+ 
 🎯 Misión
 Este proyecto tiene como objetivo desarrollar modelos predictivos para identificar clientes con alta probabilidad de cancelar sus servicios (churn) en una compañía de telecomunicaciones. El pipeline incluye preprocesamiento, modelado y evaluación para generar insights accionables que permitan reducir la tasa de abandono.
 
